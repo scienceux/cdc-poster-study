@@ -1,0 +1,14 @@
+version: 1
+betterscience:
+  work:
+    id: 018d5ec2-875e-7b98-988b-7774179a0e7c
+    date_created: '2024-01-31T09:03:43.454Z'
+  workVersion:
+    id: 018d5ec2-875e-7b98-988b-7775dcd8750f
+    date_created: '2024-01-31T09:03:43.454Z'
+  submission:
+    id: 018d5ec2-8a91-76d6-96f2-c0f9983877b3
+    date_created: '2024-01-31T09:03:44.268Z'
+  submissionVersion:
+    id: 018d5ec2-8a91-76d6-96f2-c0f802add463
+    date_created: '2024-01-31T09:03:44.268Z'

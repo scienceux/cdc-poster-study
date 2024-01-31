@@ -1,58 +1,32 @@
----
-# title: "A step in the right direction: Billboard-style posters preferred overall at two conferences, but should include more methods and limitations."
+Evaluation of a new scientific poster
 
-# meta desc
-description: "Scientists generally prefer minimalist posters, but want key data and methods"
+# A step in the right direction: Billboard-style posters preferred overall at two conferences, but should include more methods and limitations.
 
-tags: ["poster", "science UX"]
+**Acknowledgements**
 
-subject: Evaluation of a new scientific poster
-venue: "#betterscience"
-license: CC-BY-4.0
-open_access: true
+_The Authors would like to thank the CDC for contributing to the creation of this article by donating some of its employees' valuable time._ _The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention._
 
-thumbnail: "images/betterposter-1.5.png"
-
-abbreviations:
-  IMRAD: Intro Methods Results Discussion - Our term for the traditional Scientific Poster.
-  HR: Human Resources
-
----
-
-+++{"part": "acknowledgments"}
-
-The Authors would like to thank the CDC for contributing to the creation of this article by donating some of its employees' valuable time._ _The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention.
-
-+++{"part": "abstract"}
+# Abstract2
 
 Scientific posters are a frequently used medium of communication at conferences and have grown in popularity over the last decades. However, the design of the traditional poster has largely remained stagnant despite emergence of new relevant research that could have unique implications for how scientific posters are designed for optimal learning. In this study, we
+
 examine the impact of a new minimalist, 'billboard-style' poster designed to transmit at least one piece of knowledge more efficiently. Attitudinal reactions to new and traditional poster designs were compared in two field studies. We found the billboard-style poster was perceived as easier to learn from, more interactive, and better for promoting scientific discovery. This supports the billboard-style poster design for use in scientific poster sessions. Results also suggested that future improvements to billboard-style designs should aim to efficiently communicate study methods in addition to key findings. Ultimately, these two field studies provide some initial evidence that meaningful improvements in poster effectiveness are possible, and that billboard-style layouts may be a step in the right direction that is worth developing further.
 
-+++
-
+**Key Words** : Instructional design, Health Communication, Information Acquisition, Knowledge Exchange, Interdisciplinary Science Communication
 
 # Introduction and Theoretical Background
 
-Scientific posters are used widely at conferences across scientific disciplines to disseminate research. Since their inception, poster sessions grew from small events with a few posters in the 1970s into sprawling poster sessions containing hundreds of posters ([Hess & Brooks, 1998](https://doi.org/10.2134/jnrlse.1998.0155); [Lingard & Haber, 1999](https://doi.org/10.1097/00001888-199905000-00015); [Ilic & Rowe, 2013](https://doi.org/10.1111/hir.12015); [Maugh, 1974](https://doi.org/10.1126/science.184.4144.1361); [Rowe, 2017](https://doi.org/10.1111/hir.12177)). Today, posters are the most frequent medium through which scientific knowledge is disseminated at conferences ([Rowe, 2017](https://doi.org/10.1111/hir.12177); [Rowe & Ilic, 2015](https://doi.org/10.1111/febs.13383)). Despite their crucial role in knowledge dissemination, the changing environmental context of posters, and recent evidence questioning their effectiveness, the design of the traditional poster has largely remained stagnant ([Rowe & Illic, 2015](https://doi.org/10.1111/febs.13383)). This is an especially ripe opportunity for improving knowledge dissemination in science because a wealth of evidence-based theory emerged in recent decades from fields like Instructional Design and Human Factors that is directly relevant to improving the design of scientific posters. Due to their ubiquity, even a small improvement to the knowledge transfer efficiency of the default scientific poster design could increase knowledge dissemination across every field of science.
-
+Scientific posters are used widely at conferences across scientific disciplines to disseminate research. Since their inception, poster sessions grew from small events with a few posters in the 1970s into sprawling poster sessions containing hundreds of posters (Hess & Brooks, 1998; Lingard & Haber, 1999; Ilic & Rowe, 2013; Maugh, 1974; Rowe, 2017). Today, posters are the most frequent medium through which scientific knowledge is disseminated at conferences (Rowe, 2017; Rowe & Ilic, 2015). Despite their crucial role in knowledge dissemination, the changing environmental context of posters, and recent evidence questioning their effectiveness, the design of the traditional poster has largely remained stagnant (Rowe & Illic, 2015). This is an especially ripe opportunity for improving knowledge dissemination in science because a wealth of evidence-based theory emerged in recent decades from fields like Instructional Design and Human Factors that is directly relevant to improving the design of scientific posters. Due to their ubiquity, even a small improvement to the knowledge transfer efficiency of the default scientific poster design could increase knowledge dissemination across every field of science.
 
 ## Previous Research on Scientific Posters
 
-Previous research on scientific poster sessions has questioned their effectiveness in facilitating knowledge transfer between poster presenters and session attendees. Several studies have faulted the design and format of the traditional poster as the main impediment to maximizing knowledge transfer with the ever-increasing crowds in poster sessions ([Dubois, 1985](https://doi.org/10.1016/0272-2380(85)90005-8); [Saffran, 1987](https://doi.org/10.1016/0307-4412(87)90143-9)). [Rowe and Illic (2015)](https://doi.org/10.1111/febs.13383) especially called for an overhaul of the traditional scientific poster design.
+Previous research on scientific poster sessions has questioned their effectiveness in facilitating knowledge transfer betweenposter presenters and session attendees. Several studies have faulted the design and format of the traditional poster as the main impediment to maximizing knowledge transfer with the ever-increasing crowds in poster sessions (Dubois, 1985; Saffran, 1987). Rowe and Illic (2015) especially called for an overhaul of the traditional scientific poster design.
 
-In response to these criticisms of the text-heavy, Introduction-Methods-Results Analysis-Discussion ({abbr}`IMRAD (Intro Methods Results Discussion - How we refer to the traditional scientific poster design.)`) poster design, a new billboard-style poster ([](#trad-vs-billboard),b) was introduced to the scientific community and rapidly gained national attention ([Greenfieldboyce, 2019](https://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over); [Morrison, 2019](https://youtu.be/1RwJbhkCA58)). The features of this billboard-style design were derived from empirically based recommendations from the fields of Instructional Design and Human Factors.
+In response to these criticisms of the text-heavy, Introduction-Methods-Results Analysis-Discussion (IMRAD) poster design, a new billboard-style poster ([](#trad-vs-billboard),b) was introduced to the scientific community and rapidly gained national attention (Greenfieldboyce, 2019; Morrison, 2019). The features of this billboard-style design were derived from empirically based recommendations from the fields of Instructional Design and Human Factors. Especially influential were Pirolli and Card's (1999) information foraging theory and Mayer and Moreno's (2003) work on cognitive load and cognitive overload reduction. In contrast to the traditional poster approach of "hook them with a catchy title, then fill up the rest of the space with as much detail as possible," the billboard-style poster layout is designed in layers of increasing knowledge transfer and engagement (10 second walk-by learning, 1 minute pause-and-learn, 5 minute stop-and-read, and finally take away more detail to read later), allowing attendees to learn something immediately, and continue learning more the more time they spend with the poster.
 
-:::{iframe} https://www.youtube.com/embed/1RwJbhkCA58
-:width: 100%
-The YouTube video that first introduced this billboard-style poster concept.
-:::
-
-Especially influential were [Pirolli and Card's (1999)](https://doi.org/10.1037/0033-295X.106.4.643) information foraging theory and [Mayer and Moreno\'s (2003)](https://doi.org/10.1207/S15326985EP3801_6) work on cognitive load and cognitive overload reduction. In contrast to the traditional poster approach of "hook them with a catchy title, then fill up the rest of the space with as much detail as possible," the billboard-style poster layout is designed in layers of increasing knowledge transfer and engagement (10 second walk-by learning, 1 minute pause-and-learn, 5 minute stop-and-read, and finally take away more detail to read later), allowing attendees to learn something immediately, and continue learning more the more time they spend with the poster.
-
-First, the billboard-style layout features a large and prominently communicated "main takeaway" that allows attendees to learn something valuable from each poster simply by walking by. This serves to (a) lower the interaction cost of attendees learning from the poster and (b) pre-trains some insight in advance of an attendee stopping to talk to the presenter, in an effort to reduce the cognitive load ([Mayer & Moreno, 2003](https://doi.org/10.1207/S15326985EP3801_6); [Pirolli & Card, 1999](https://doi.org/10.1037/0033-295X.106.4.643)). Second, information is heavily prioritized in the billboard-style design, with "need to know" information more prominent than "nice to know" information. This is consistent with the recommended "weeding'' technique where interesting but secondary information is eliminated or de-emphasized to reduce cognitive overload ([Mayer & Moreno, 2003](https://doi.org/10.1207/S15326985EP3801_6)). This strategy of strategically presenting information preserves the limited human capacity for processing information and prioritizes the most important information.
+First, the billboard-style layout features a large and prominently communicated "main takeaway" that allows attendees to learn something valuable from each poster simply by walking by. This serves to (a) lower the interaction cost of attendees learning from the poster and (b) pre-trains some insight in advance of an attendee stopping to talk to the presenter, in an effort to reduce the cognitive load (Mayer & Moreno, 2003; Pirolli & Card, 1999). Second, information is heavily prioritized in the billboard-style design, with "need to know" information more prominent than "nice to know" information. This is consistent with the recommended "weeding'' technique where interesting but secondary information is eliminated or de-emphasized to reduce cognitive overload (Mayer & Moreno, 2003). This strategy of strategically presenting information preserves the limited human capacity for processing information and prioritizes the most important information.
 
 Finally, the billboard-style layouts include a mechanism for accessing additional information about the study not presented on the poster. Billboard-style posters typically contain a QR code that attendees can scan with their phone to download full manuscripts and author contact details associated with the poster. This acts as a sweeping repository for less important information, freeing the remaining content on the poster to be more focused.
-
 
 ```{figure} images/figure1-traditional-vs-imrad.png
 :name: trad-vs-billboard
@@ -68,9 +42,9 @@ In two studies, we examined the impact of billboard-style poster designs on atte
 
 ### Presenter Experience
 
-For poster presenters, we were curious to know whether the experience of constructing a billboard-style poster was quantitatively and qualitatively different from constructing a traditional, IMRAD-style poster. A central tenant in the field of User Experience Design is that when something is easier to do, people will do it more ([Krug, 2022](https://www.pearson.com/store/p/don-t-make-me-think-revisited-a-common-sense-approach-to-web-usability/P100002648913)). For any new poster format to gain wide adoption, the time and effort burden it imposes on those creating the poster is a nontrivial variable. Even if a new approach communicates more effectively, if it requires too much additional effort above the traditional approach, adoption will likely be impeded. The ideal is for a new approach to be both less effort for presenters, and more effective at communicating to attendees, as this may speed adoption.
+For poster presenters, we were curious to know whether the experience of constructing a billboard-style poster was quantitatively and qualitatively different from constructing a traditional, IMRAD-style poster. A central tenant in the field of User Experience Design is that when something is easier to do, people will do it more (Krug, 2022). For any new poster format to gain wide adoption, the time and effort burden it imposes on those creating the poster is a nontrivial variable. Even if a new approach communicates more effectively, if it requires too much additional effort above the traditional approach, adoption will likely be impeded. The ideal is for a new approach to be both less effort for presenters, and more effective at communicating to attendees, as this may speed adoption.
 
-With both traditional IMRAD and billboard-style, presenters typically start by acquiring templates either from a fellow student (in the case of the traditional poster), or by downloading templates from the Open Science Framework in the case of the billboard-style poster ([Morrison, 2019](https://osf.io/ef53g)). The layouts differ mainly in terms of the total effort spent placing content on the poster template, and each layout may also have tradeoffs in terms of where time and effort are spent (e.g., aligning content versus re-writing sentences for brevity).
+With both traditional IMRAD and billboard-style, presenters typically start by acquiring templates either from a fellow student (in the case of the traditional poster), or by downloading templates from the Open Science Framework in the case of the billboard-style poster (Morrison, 2019). The layouts differ mainly in terms of the total effort spent placing content on the poster template, and each layout may also have tradeoffs in terms of where time and effort are spent (e.g., aligning content versus re-writing sentences for brevity).
 
 Compared to traditional posters, billboard-style posters are designed to encourage presenters to summarize their study more concisely into concentrated key points and a few key figures. While there may be fewer total words on a billboard-style poster, this lower word limit may force presenters to write more efficiently and economically, which can often be more difficult and time consuming than simply writing (or copy-pasting) effusively.
 
@@ -84,7 +58,7 @@ H1b: Billboard style posters will take less self-reported time to prepare compar
 
 #### Future Behavioral Intentions
 
-In psychology, behavioral intentions (i.e., the intention to do something in the future) are formed by a number of factors, including attitudes towards that target (here, posters), the opinions of valued others toward the behavior, and previous habits ([Valois et al., 1988](https://doi.org/10.1007/BF00844839)). Although these concrete factors each suggest their own research questions as it relates to billboard-style posters, we took an initial step here in measuring these factors by assessing presenters' overall behavioral intentions toward using billboard-style poster layouts in the future.
+In psychology, behavioral intentions (i.e., the intention to do something in the future) are formed by a number of factors, including attitudes towards that target (here, posters), the opinions of valued others toward the behavior, and previous habits (Fishbein & Ajzen, 1976; Triandis, 1980). Although these concrete factors each suggest their own research questions as it relates to billboard-style posters, we took an initial step here in measuring these factors by assessing presenters' overall behavioral intentions toward using billboard-style poster layouts in the future.
 
 We captured presenters' intentions to use billboard-style layouts after they experienced their performance in-person. If the billboard-style posters are perceived by the presenters as subjectively performing well or better than traditional posters, then it should be likely that they intend to use it again in the future.
 
@@ -96,13 +70,13 @@ As a poster session attendee strolls through the aisles of a poster session, the
 
 At the final level of interaction, attendees may engage the presenter in conversation. This conversation may consist of a few concrete questions (e.g., "Did you consider this?") to supplement the attendee's reading experience, or may become a deeper, longer conversation ("So, tell me about your poster!"). It may also go 'off-topic' as the presenter and attendee get to know each other.
 
-Disengagement too could be meaningful. In [Pirolli and Card\'s (1999)](https://doi.org/10.1037/0033-295X.106.4.643) Information Foraging Theory, 'patch switching' — making the decision to leave one information patch (i.e., a poster) to find another — is indicative of the amount of value gained and effort invested in the original patch by the forager (here, the attendee). Time spent, learning gained, and subjective reactions at each of the above gradations of engagement with a poster are all theoretically meaningful.
+Disengagement too could be meaningful. In Pirolli and Card's (1995) Information Foraging Theory, 'patch switching' — making the decision to leave one information patch (i.e., a poster) in to find another — is indicative of the amount of value gained and effort invested in the original patch by the forager (here, the attendee). Time spent, learning gained, and subjective reactions at each of the above gradations of engagement with a poster are all theoretically meaningful.
 
 We mention all of these potential measurement points to illustrate that there is a great deal of research yet to be done on scientific posters, and also to situate the narrow scope of the questions we investigated in these studies. Here, we focused on whether the billboard-style posters differed from traditional, IMRAD-style posters qualitatively in terms of their perceived interactivity.
 
 #### Perceived interaction cost
 
-Billboard-style posters are designed to have a lower interaction cost for attendees than traditional posters. That is, they are designed to be less effort for attendees to learn from than traditional posters. As discussed previously, achieving a lower interaction cost results in a number of positive outcomes, especially in terms of increased user engagement ([Lam, 2008](https://doi.org/10.1109/TVCG.2008.109)). As an initial test of the billboard-style poster's interaction cost, we assessed whether attendees subjectively perceived billboard posters as being more interactive. To complement this, we also assessed whether presenters perceived their billboard-style posters as receiving a higher number of interactions from attendees versus the IMRAD posters they'd presented.
+Billboard-style posters are designed to have a lower interaction cost for attendees than traditional posters. That is, they are designed to be less effort for attendees to learn from than traditional posters. As discussed previously, achieving a lower interaction cost results in a number of positive outcomes, especially in terms of increased user engagement (Lam, 2008). As an initial test of the billboard-style poster's interaction cost, we assessed whether attendees subjectively perceived billboard posters as being more interactive. To complement this, we also assessed whether presenters perceived their billboard-style posters as receiving a higher number of interactions from attendees versus the IMRAD posters they'd presented.
 
 _H __3a__ : Billboard-style posters will be perceived as significantly_ _easier to interact with_ _by attendees._
 
@@ -120,17 +94,17 @@ A key goal of any poster session is for attendees to learn about new research in
 
 _H5: Billboard style posters are perceived as improving learning from poster sessions compared to IMRAD style posters._
 
-If the goal of an individual poster is to communicate information about a single scientific study, then what is the goal of the poster session overall? Here, there may be multiple goals. Scientists may benefit from networking with other researchers and building deeper transactive memory about who is studying what ([Brandon, 2004](https://doi.org/10.1007/978-1-4612-4634-3_9)). The wide focus of a poster session may also promote serendipitous learning of stumbling across unexpected insight outside an attendees normal research area ([Lane et al., 2021](https://doi.org/10.1002/smj.3256)). Ultimately, all of these goals may serve the superordinate goal of promoting scientific discovery. To begin assessing the impact of poster design on such session-wide goals, we tested whether this billboard-style was perceived as facilitating overall scientific discovery compared to traditional IMRAD posters.
+If the goal of an individual poster is to communicate information about a single scientific study, then what is the goal of the poster session overall? Here, there may be multiple goals. Scientists may benefit from networking with other researchers and building deeper transactive memory about who is studying what (Brandon, 2004). The wide focus of a poster session may also promote serendipitous learning of stumbling across unexpected insight outside an attendees normal research area (Lane et al., 2021). Ultimately, all of these goals may serve the superordinate goal of promoting scientific discovery. To begin assessing the impact of poster design on such session-wide goals, we tested whether this billboard-style was perceived as facilitating overall scientific discovery compared to traditional IMRAD posters.
 
 _H6: The billboard-style layout will be perceived as promoting scientific discovery more than the traditional IMRAD design._
 
 ### Attendee-Presenter Interactions
 
-When an attendee chooses to stop and talk to a poster presenter, the features of the poster design may have an effect on the nature and quality of that conversation. These effects can be divided into two categories: The amount of information conveyed from the poster to the attendee prior to stopping, and the amount of information transmitted from the poster itself to the attendee while they converse with the presenter. This first version of the billboard-style poster was designed especially to communicate more information about the study as the attendee walks by, prior to stopping. Namely, this billboard layout was designed to transmit the main takeaway of the study prior to stopping, in contrast to the traditional poster which communicates only the general subject through the title ([Morrison, 2019](https://osf.io/ef53g)).
+When an attendee chooses to stop and talk to a poster presenter, the features of the poster design may have an effect on the nature and quality of that conversation. These effects can be divided into two categories: The amount of information conveyed from the poster to the attendee prior to stopping, and the amount of information transmitted from the poster itself to the attendee while they converse with the presenter. This first version of the billboard-style poster was designed especially to communicate more information about the study as the attendee walks by, prior to stopping. Namely, this billboard layout was designed to transmit the main takeaway of the study prior to stopping, in contrast to the traditional poster which communicates only the general subject through the title (Morrison, 2019).
 
 _H7: Billboard style posters are more effective at communicating the main takeaway of the study compared to IMRAD style posters._
 
-[Morrison (2020)](https://youtu.be/SYk29tnxASs) suggested that successfully teaching attendees more about the study before they stop to talk could increase the amount of what [Mayer and Moreno (2003)](https://doi.org/10.1207/S15326985EP3801_6) refer to as 'pre-training', where a learner learns some details about a concept in advance, prior to a more intensive training session (typically a class, but here this could be talking to the presenter). Pre-training has been shown to reduce the cognitive load of subsequent learning sessions and to ultimately improve learning outcomes ([Mayer & Moreno, 2003](https://doi.org/10.1207/S15326985EP3801_6)).
+Morrison (2020) suggested that successfully teaching attendees more about the study before they stop to talk could increase the amount of what Mayer and Moreno (2003) refer to as 'pre-training', where a learner learns some details about a concept in advance, prior to a more intensive training session (typically a class, but here this could be talking to the presenter). Pre-training has been shown to reduce the cognitive load of subsequent learning sessions and to ultimately improve learning outcomes (Mayer & Moreno, 2003).
 
 There are many ways that this additional pre-training could affect the presenter-attendee conversation itself (e.g., which topics are discussed, the depth of questions are asked, the degree to which the conversation wanders off-poster). In the broader scope of our initial studies here, we sought to detect whether there was a perceived change in the quality of the conversation at all between billboard and traditional-style posters.
 
@@ -138,7 +112,7 @@ _H8: Billboard style posters will be perceived by presenters as creating a highe
 
 ## Overview of studies
 
-In two field studies, we sought to understand how billboard-style and traditional poster designs were evaluated among those presenting posters and those attending poster sessions. In our first study, we tested the effect of a 'full rollout', where every poster was designed using a billboard-style layout ([](#trad-vs-billboard), B). In our second study, we tested the effects of a heterogeneous session, where half the posters in the session were traditional IMRAD ([](#trad-vs-billboard), B) poster designs and half used a billboard-style layout.
+In two field studies, we sought to understand how billboard-style and traditional poster designs were evaluated among those presenting posters and those attending poster sessions. In our first study, we tested the effect of a 'full rollout', where every poster was designed using a billboard-style layout ([](trad-vs-billboard), B). In our second study, we tested the effects of a heterogeneous session, where half the posters in the session were traditional IMRAD ([](trad-vs-billboard), B) poster designs and half used a billboard-style layout.
 
 # Methods
 
@@ -154,8 +128,7 @@ Poster session attendees and presenters were surveyed at the conclusion of the s
 
 For the preference questions, a series of χ2 goodness of fit tests were conducted to determine if poster presenters and attendees preferred the alternative poster design over the traditional poster design or had no preference.Specifically, we compared the observed preferences for poster design to the expected preferences for poster design. For the expected preferences, we assumed an equal distribution of preferences across all three response options (e.g., 1/3 of participants preferred the alternative poster design, 1/3 of participants preferred the traditional poster design, and 1/3 of participants indicated no preference for traditional or alternative poster design). To account for the multiple comparisons, a Bonferroni correction was applied with a significance cutoff value of alpha = .0056.
 
-The open-ended survey responses were analyzed using conventional content analysis ([Hsieh and Shannon, 2005](https://doi.org/10.1177/1049732305276687)). First, the qualitative responses were broken down into individual recording units containing an evaluation (positive, negative, or neutral) and an object (target of evaluation), resulting in n = 144 units. Second, a codebook was developed using the constant comparative method shown in Supplemental Table 1 ([Glaser, 1965](https://doi.org/10.2307/798843)). Third, two authors independently coded the qualitative responses, resulting in moderate interrater reliability (pooled kappa = .74; [De Vries et al., 2008](https://doi.org/10.1177/1525822X08317166)). Finally, any remaining discrepancies in the qualitative responses were discussed until full agreement was reached.
-
+The open-ended survey responses were analyzed using conventional content analysis (Hsieh & Shannon, 2005). First, the qualitative responses were broken down into individual recording units containing an evaluation (positive, negative, or neutral) and an object (target of evaluation), resulting in n = 144 units. Second, a codebook was developed using the constant comparative method shown in Supplemental Table 1 (Glaser, 1965). Third, two authors independently coded the qualitative responses, resulting in moderate interrater reliability (pooled kappa = .74; De Vries et al., 2008). Finally, any remaining discrepancies in the qualitative responses were discussed until full agreement was reached.
 
 During codebook development, three overarching categories of qualitative response were identified: poster features, poster experience, and irrelevant information. The poster features category refers to evaluations of specific design features and design choices on the different posters (e.g., QR code, font, large central block for key message, etc.). The poster experience category refers to participants' overall reactions and evaluations towards billboard-style posters (e.g., what they felt, thought, etc.). The irrelevant information category was used to filter out non-evaluative or unrelated responses. By organizing qualitative responses in this manner, we can separate overall evaluations of the billboard-style poster from specific design-related feedback.
 
@@ -165,7 +138,7 @@ In study 2, we examined attendee and presenter reactions at a poster session whe
 
 ### Materials and Administration
 
-The CDC's Office of the Associate Director for Communications' (OADC) Graphic Services Scientific Poster Team (SPT) worked with multilevel groups including CDC scientists and web teams to develop a CDC billboard-style template to intentionally address the needs of the agency. The Design Council's "Double Diamond Design Process" was used to support the design strategy of the billboard-style poster template ([Ball, 2019](https://www.designcouncil.org.uk/news-opinion/double-diamond-universally-accepted-depiction-design-process)). This template was further reviewed by OADC's Quality Assessment Quality Control Office and underwent usability testing to ensure quality and design standards were met.
+The CDC's Office of the Associate Director for Communications' (OADC) Graphic Services Scientific Poster Team (SPT) worked with multilevel groups including CDC scientists and web teams to develop a CDC billboard-style template to intentionally address the needs of the agency. The Design Council's "Double Diamond Design Process" was used to support the design strategy of the billboard-style poster template (Ball, 2019). This template was further reviewed by OADC's Quality Assessment Quality Control Office and underwent usability testing to ensure quality and design standards were met.
 
 #### Survey Instrument
 
@@ -289,9 +262,9 @@ Among poster presenters, a subsequent chi-squaredtest of independence was used t
 
 # Discussion
 
-The ubiquity of posters in science carries a profound opportunity to improve scientific communication. Given how many posters are presented every year, a small improvement to the poster's ability to transmit knowledge could accelerate learning across science. The results of the above studies suggest that such improvements are possible and should be pursued further. The 'billboard-style' approach to posters is new and still evolving, with many new layouts introduced even since our data was collected (see [Morrison, 2020](https://youtu.be/SYk29tnxASs)). However, even the simple "minimalist" billboard-style design tested here may have taken a small step towards more effective poster sessions, albeit with some tradeoffs observed with this particular layout. This early billboard-style layout seems to be, as one attendee commented, an imperfect "step in the right direction."
+The ubiquity of posters in science carries a profound opportunity to improve scientific communication. Given how many posters are presented every year, a small improvement to the poster's ability to transmit knowledge could accelerate learning across science. The results of the above studies suggest that such improvements are possible and should be pursued further. The 'billboard-style' approach to posters is new and still evolving, with many new layouts introduced even since our data was collected (see Morrison, 2020). However, even the simple "minimalist" billboard-style design tested here may have taken a small step towards more effective poster sessions, albeit with some tradeoffs observed with this particular layout. This early billboard-style layout seems to be, as one attendee commented, an imperfect "step in the right direction."
 
-Across both studies, the billboard-style design was perceived as more interactive, and as making it easier to learn at least the main takeaway from every poster in the room. Participants in the all-billboard-style session, especially, felt that the billboard-style posters aided their own learning and promoted discovery in science over the traditional design. The goal of this 'version 1' billboard layout was to efficiently communicate the main finding of the study to all attendees, and both our studies seemed to confirm that it succeeded in that aim. However, for billboard posters to fully overtake the traditional design in all areas (at least in terms of attendee perceptions) more work likely needs to be done to make them communicate study data and methods effectively as well. Recently released "generation 2" billboard-style layouts (see [Morrison, 2020](https://youtu.be/SYk29tnxASs)) seek to do exactly this and make methods and data considerably more prominent than on the [Morrison, 2019](https://osf.io/ef53g) layout, however these new layouts have yet to be tested.
+Across both studies, the billboard-style design was perceived as more interactive, and as making it easier to learn at least the main takeaway from every poster in the room. Participants in the all-billboard-style session, especially, felt that the billboard-style posters aided their own learning and promoted discovery in science over the traditional design. The goal of this 'version 1' billboard layout was to efficiently communicate the main finding of the study to all attendees, and both our studies seemed to confirm that it succeeded in that aim. However, for billboard posters to fully overtake the traditional design in all areas (at least in terms of attendee perceptions) more work likely needs to be done to make them communicate study data and methods effectively as well. Recently released "generation 2" billboard-style layouts (see Morrison, 2020) seek to do exactly this and make methods and data considerably more prominent than on the Morrison (2019) layout, however these new layouts have yet to be tested.
 
 Ultimately, these studies represent some encouraging initial reactions to an early attempt at creating a more theory-grounded poster format. With continued improvements to poster designs, and to the methods used to test poster effectiveness, science can move towards a future where scientific posters transmit knowledge more efficiently to all attendees, and where that increased transmission can be measured effectively.
 
@@ -305,19 +278,7 @@ Finally, a number of environmental and contextual variables likely impact attend
 
 # Future directions
 
-:::{iframe} https://www.youtube.com/embed/SYk29tnxASs
-:width: 100%
-The second, "#betterposter Generation 2" video on billboard posters, which introduced new layouts and concepts that should be tested.
-:::
-
-We are at the very beginning of the quest to improve the effectiveness of scientific posters. Since these studies were conducted, new billboard-style designs and principles have been released (see [](#figure9-generation2) and [Morrison, 2020](https://youtu.be/SYk29tnxASs))[^bp2] that incorporate many of the improvements suggested by participants in our studies (namely, greater emphasis on data and methods in addition to the key findings). Further, many researchers choose to incorporate idiosyncratic aspects of the billboard-style approach into their posters, either by creating their own layouts entirely or by simply making a key figure much bigger. While all this is promising, it makes measuring and comparing posters that much more difficult. For this reason, we think that measurement itself is the most promising area for innovation in poster research. Mobile eye trackers and 'people counter' technologies (used to track customer traffic in retail stores) may be of some use for measuring behavior in poster sessions, but they are often prohibitively expensive on an academic budget. We encourage researchers to find new and creative ways to measure factors like eye gazes, attention, and attendee walking paths in mass across big, live, crowded poster sessions.
-
-[^bp2]: Sometimes, you need to explain a point
-
-    :::{iframe} https://www.youtube.com/embed/SYk29tnxASs
-    :width: 100%
-    The second, "#betterposter Generation 2" video on billboard posters, which introduced new layouts and concepts that should be tested.
-    :::
+We are at the very beginning of the quest to improve the effectiveness of scientific posters. Since these studies were conducted, new billboard-style designs and principles have been released (see [](#figure9-generation2) and Morrison, 2020) that incorporate many of the improvements suggested by participants in our studies (namely, greater emphasis on data and methods in addition to the key findings). Further, many researchers choose to incorporate idiosyncratic aspects of the billboard-style approach into their posters, either by creating their own layouts entirely or by simply making a key figure much bigger. While all this is promising, it makes measuring and comparing posters that much more difficult. For this reason, we think that measurement itself is the most promising area for innovation in poster research. Mobile eye trackers and 'people counter' technologies (used to track customer traffic in retail stores) may be of some use for measuring behavior in poster sessions, but they are often prohibitively expensive on an academic budget. We encourage researchers to find new and creative ways to measure factors like eye gazes, attention, and attendee walking paths in mass across big, live, crowded poster sessions.
 
 ```{figure} images/figure9-generation2.png
 :name: figure9-generation2
@@ -328,6 +289,89 @@ Example of new, Generation 2 billboard-style layouts from Morrison (2020) that i
 
 Moreover, additional work is needed to move past imprecise distinctions between poster types (e.g., IMRAD vs. billboard-style). In lieu, controlled studies are needed to explore the impact of granular design features on learning outcomes. By focusing on design components on a poster instead its overall layout, research can begin to explore the differential impact of individual features on learning in scientific conferences.
 
+# References
+
+Argote, L., & Ingram, P. (2000). Knowledge Transfer: A Basis for Competitive Advantage in Firms. _Organizational Behavior and Human Decision Processes_, _82_(1), 150-169. [https://doi.org/https://doi.org/10.1006/obhd.2000.2893](https://doi.org/https://doi.org/10.1006/obhd.2000.2893)
+
+Ball, J. (2019). _The Double Diamond: A universally accepted depiction of the design process_. Design Council. [https://www.designcouncil.org.uk/news-opinion/double-diamond-universally-accepted-depiction-design-process](https://www.designcouncil.org.uk/news-opinion/double-diamond-universally-accepted-depiction-design-process)
+
+Berg, J. A. (2005). Creating a Professional Poster Presentation: Focus on Nurse Practitioners. _Journal of the American Academy of Nurse Practitioners_, _17_(7), 245-248. [https://doi.org/https://doi.org/10.1111/j.1745-7599.2005.0041.x](https://doi.org/https://doi.org/10.1111/j.1745-7599.2005.0041.x)
+
+Brandon, D. P., & Hollingshead, A. B. (2004). Transactive memory systems in organizations: Matching tasks, expertise, and people. Organization science, 15(6), 633-644. [https://doi.org/10.1007/978-1-4612-4634-3\_9](https://doi.org/10.1007/978-1-4612-4634-3_9)
+
+Butz, A. M., Kohr, L., & Jones, D. (2004). Developing a successful poster presentation. _J Pediatr Health Care_, _18_(1), 45-48. [https://doi.org/10.1016/j.pedhc.2003.08.006](https://doi.org/10.1016/j.pedhc.2003.08.006)
+
+De Vries, H., Elliott, M. N., Kanouse, D. E., & Teleki, S. S. (2008). Using Pooled Kappa to Summarize Interrater Agreement across Many Items. _Field Methods_, _20_(3), 272-282. [https://doi.org/10.1177/1525822X08317166](https://doi.org/10.1177/1525822X08317166)
+
+Dubois, B. L. (1985). Poster sessions at biomedical meetings: Design and presentation. _The ESP Journal_, _4_(1), 37-48. [https://doi.org/https://doi.org/10.1016/0272-2380(85)90005-8](https://doi.org/https://doi.org/10.1016/0272-2380(85)90005-8)
+
+Foulsham, T., & Kingstone, A. (2011). Look at my poster! Active gaze, preference and memory during a poster session. _Perception_, _40_(11), 1387-1389. [https://doi.org/10.1068/p7015](https://doi.org/10.1068/p7015)
+
+Fishbein, M., & Ajzen, I. (1976). Misconceptions about the Fishbein model: Reflections on a study by Songer-Nocks. Journal of Experimental Social Psychology, 12(6), 579-584.
+
+Glaser, B. G. (1965). The Constant Comparative Method of Qualitative Analysis. _Social Problems_, _12_(4), 436-445. [https://doi.org/10.2307/798843](https://doi.org/10.2307/798843)
+
+Goodhand, J. R., Giles, C. L., Wahed, M., Irving, P. M., Langmead, L., & Rampton, D. S. (2011). Poster presentations at medical conferences: an effective way of disseminating research? _Clin Med (Lond)_, _11_(2), 138-141. [https://doi.org/10.7861/clinmedicine.11-2-138](https://doi.org/10.7861/clinmedicine.11-2-138)
+
+Greenfieldboyce, N. (2019, June 11, 2019). _To save the science poster, researchers want to kill it and start over._ National Public Radio. Retrieved March 3, 2021 from [https://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over](https://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over)
+
+Grishin, J. (2018). Exploring the boundary conditions of the effect of aesthetics on perceived usability. North Carolina State University.
+
+Hess, G. R., & Brooks, E. N. (1998). The Class Poster Conference as a Teaching Tool. _Journal of Natural Resources and Life Sciences Education_, _27_(1), 155-158. [https://doi.org/https://doi.org/10.2134/jnrlse.1998.0155](https://doi.org/https://doi.org/10.2134/jnrlse.1998.0155)
+
+Hsieh, H. F., & Shannon, S. E. (2005). Three approaches to qualitative content analysis. _Qual Health Res_, _15_(9), 1277-1288. [https://doi.org/10.1177/1049732305276687](https://doi.org/10.1177/1049732305276687)
+
+Ilic, D., & Rowe, N. (2013). What is the evidence that poster presentations are effective in promoting knowledge transfer? A state of the art review. _30_(1), 4-12. [https://doi.org/10.1111/hir.12015](https://doi.org/10.1111/hir.12015)
+
+Katz, M. A., & Byrne, M. D. (2003). Effects of scent and breadth on use of site-specific search on e-commerce Web sites. _ACM Trans. Comput.-Hum. Interact_, _10_(3), 198–220. [https://doi.org/10.1145/937549.937551](https://doi.org/10.1145/937549.937551)
+
+Keely, B. R. (2004). Planning and creating effective scientific posters. _J Contin Educ Nurs_, _35_(4), 182-185. [https://doi.org/10.3928/0022-0124-20040701-10](https://doi.org/10.3928/0022-0124-20040701-10)
+
+Krug, S. (2022, October 12). _Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)_. Pearson Education.
+
+Lam, H. (2008). A Framework of Interaction Costs in Information Visualization. _IEEE Transactions on Visualization and Computer Graphics_, _14_(6), 1149-1156. [https://doi.org/10.1109/TVCG.2008.109](https://doi.org/10.1109/TVCG.2008.109)
+
+Lane, J. N., Ganguli, I., Gaule, P., Guinan, E., & Lakhani, K. R. (2021). Engineering serendipity: When does knowledge sharing lead to knowledge production?. Strategic management journal, 42(6), 1215-1244. . [https://doi.org/10.1002/smj.3256](https://doi.org/10.1002/smj.3256)
+
+Lingard, L., & Haber, R. J. (1999). Teaching and learning communication in medicine: a rhetorical approach. _Academic medicine : journal of the Association of American Medical Colleges_, _74_(5), 507-510. [https://doi.org/10.1097/00001888-199905000-00015](https://doi.org/10.1097/00001888-199905000-00015)
+
+Maugh, T. H. (1974). Poster Sessions: A New Look at Scientific Meetings. _184_(4144), 1361-1361. [https://doi.org/10.1126/science.184.4144.1361](https://doi.org/10.1126/science.184.4144.1361) %J Science
+
+Mayer, R. E. (2014). _Cognitive theory of multimedia learning_. Cambridge University Press. [https://doi.org/10.1017/CBO9781139547369.005](https://doi.org/10.1017/CBO9781139547369.005)
+
+Mayer, R. E., & Moreno, R. (2003). Nine Ways to Reduce Cognitive Load in Multimedia Learning. _Educational Psychologist_, _38_(1), 43-52. [https://doi.org/10.1207/S15326985EP3801\_6](https://doi.org/10.1207/S15326985EP3801_6)
+
+Mikels, J. A., & Reuter-Lorenz, P. A. (2019). Affective Working Memory: An Integrative Psychological Construct. _Perspect Psychol Sci_, _14_(4), 543-559. [https://doi.org/10.1177/1745691619837597](https://doi.org/10.1177/1745691619837597)
+
+Moody, G., & Galletta, D. (2015). Lost in cyberspace: The impact of information scent and time constraints on Stress, performance, and attitudes online. _J Manag Inf Syst._ , _32_(1).
+
+Morrison, M. A. (2019, May 8). Better Scientific Poster Template File. Retrieved from osf.io/ef53g
+
+Morrison, M. (2019, March 25, 2019). _How to create a better research poster in less time (#betterposter​ Generation 1)_. Retrieved March 3, 2021 from [https://youtu.be/1RwJbhkCA58](https://youtu.be/1RwJbhkCA58)
+
+Morrison, M., Merlo, K., & Woessner, Z. (2020). How to Boost the Impact of Scientific Conferences. _Cell_, _182_(5), 1067-1071. [https://doi.org/10.1016/j.cell.2020.07.029](https://doi.org/10.1016/j.cell.2020.07.029)
+
+Morrison, M. A. (2020, February, 2021). _How to create a better research poster in less time (#betterposter Generation 2)._ . [https://youtu.be/SYk29tnxASs](https://youtu.be/SYk29tnxASs)
+
+Orru, G., & Longo, L. (2019). _The Evolution of Cognitive Load Theory and the Measurement of Its Intrinsic, Extraneous and Germane Loads: A Review_ (Vol. 1012). Springer, Cham. [https://doi.org/10.1007/978-3-030-14273-5\_3](https://doi.org/10.1007/978-3-030-14273-5_3)
+
+Pirolli, P., & Card, S. (1999). Information foraging. _Psychological Review_, _106_(4), 643-675.
+
+Plain Writing Act of 2010, Pub.L. 111–274 (2010).
+
+Rowe, N. (2017). Tracing the 'grey literature' of poster presentations: a mapping review. _Health Info Libr J_, 106-124. [https://doi.org/10.1111/hir.12177](https://doi.org/10.1111/hir.12177)
+
+Rowe, N., & Ilic, D. (2009). What impact do posters have on academic knowledge transfer? A pilot survey on author attitudes and experiences. _BMC Med Educ_, _9_, 71. [https://doi.org/10.1186/1472-6920-9-71](https://doi.org/10.1186/1472-6920-9-71)
+
+Rowe, N., & Ilic, D. (2015). Rethinking poster presentations at large-scale scientific meetings – is it time for the format to evolve? , _282_(19), 3661-3668. [https://doi.org/https://doi.org/10.1111/febs.13383](https://doi.org/https://doi.org/10.1111/febs.13383)
+
+Saffran, M. (1987). The poster and other forms of scientific communication. _Biochemical Education_, _15_(1), 28-30. [https://doi.org/https://doi.org/10.1016/0307-4412(87)90143-9](https://doi.org/https://doi.org/10.1016/0307-4412(87)90143-9)
+
+Smith, P. E. M., Fuller, G., & Dunstan, F. (2004). Scoring posters at scientific meetings: first impressions count. _Journal of the Royal Society of Medicine_, _97_(7), 340-341. [https://doi.org/10.1258/jrsm.97.7.340](https://doi.org/10.1258/jrsm.97.7.340)
+
+Taggart, H. M., & Arslanian, C. (2000). Creating an effective poster presentation. _Orthop Nurs_, _19_(3), 47-49, 52. [https://doi.org/10.1097/00006416-200019030-00007](https://doi.org/10.1097/00006416-200019030-00007)
+
+Triandis, H. C. (1980). Values, attitudes, and interpersonal behavior. In H. E. Howe & M. M. Page (Eds.),Nebraska Symposium on Motivation 1979 (pp. 195-259). Lincoln: University of Nebraska Press
 
 **Supplemental Table 1**
 
@@ -341,27 +385,33 @@ _Note_. Open-ended questions:
 
 Qualitative responses were broken down into individual recording units containing an evaluation (positive, negative, or neutral) and an object (target of evaluation). For example, a response of "I like the templates and key takeaways" would be broken down into "I like the templates" and "I like the key takeaways." Codebook was developed using the constant comparative method. In this method, units assigned to a coding category are systematically compared to unit already assigned to that category, and these categories are integrated and organized through interpretative memos. The codebook was discussed with all authors.
 
-| Code Name                          | Description                                                                                                                                                                             | Examples                                                                                                  |
-|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Irrelevant Information**         | Qualitative response was not relevant to the #betterposter. Provided response may have been explanatory information that was non-evaluative or indiscernible as to its purpose            | The online version should have all the details                                                             |
-| Presenter/Conference Feedback      | Qualitative response was not actually related to #betterposter. Responses provided feedback for the conference organizers or for presenters but were not related to the #betterposter. Or responses provided feedback that were characteristic of all posters, but not the betterposter (e.g., posters used too many acronyms). | Presenters should stand by their posters; the poster session was well-organized                           |
-| **Experience of the audience member** | These codes refer to the experience of the audience member. It focuses on what the audience member saw, felt, etc. It does not focus on the specifics of the poster design (e.g., what is on the paper). Instead, it is focused on the audience members' reactions to what is on the poster. |                                                                                                           |
-| Generic positive                  | Related to the better poster, but not specific. Generic, overall evaluations of like of the #betterposter                                                                                   | I like it, innovative, good, etc.                                                                         |
-| Easy to consume - Positive        | The information on the betterposter was easy to consume. This focuses less on the design elements (e.g., I liked the hero area), and more on the ease of use (the experience). It was easy to see, easy to use, easy to understand | Easy to read, easy to use, straightforward, clear                                                         |
-| Fast to consume - Positive        | The information on the betterposter was fast to consume. Focuses on the speed of information consumption and use of the betterposter within the presentation environment                  | Quick, fast, strategic                                                                                    |
-| Poster Creation - Positive        | The creation of the better poster was a good experience. Focuses on any aspect related to the creation of the betterposter from the presenter's point of view                             | Easier to prepare, easier to create, useful to make                                                       |
-| Visually attractive - Positive    | The better poster is visually attractive poster design. Focuses on overall reactions to the visual presentation of the betterposter. Does not refer to specific features of what is on the paper (e.g., I liked the hero area), but overall reactions to the poster | Attractive, eye-catching, appealing, great visual, great design                                            |
-| Misc. Experience - Negative       | The better poster provided a negative experience for the audience member. Broad "catch-all" category for negative experiential reactions to the betterposter. Does not include attitude evaluations towards specific attributes of what was on the paper (e.g., I did not like the hero area), but negative and idiosyncratic general reactions to the betterposter | I like to save posters and refer/review them later. the traditional poster is better for this             |
-| **Poster Design**                  | These codes refer to the actual poster design - what is on the paper.                                                                                                                    |                                                                                                           |
-| Central message- Positive         | Respondent expressed approval for the main hero area. This is less focused on the experience (the better poster was easy to understand) and focused on the specific design element on the hero area. Respondents do not need to refer to the hero area by name but should clearly be referring to the central "main takeaways" section of the poster design | Like the key takeaways are highlighted, like the focus on the main findings.                               |
-| Missing information - Negative    | Respondents indicate that more information is needed on the poster design. Respondents indicate that not enough information was provided in certain or all areas of the poster design. Additional information would have been helpful, they would have liked more information on a certain aspect | Hard to understand context of the study without information, wanted more information on methods, difficulty finding enough information |
-| Simpler design - Positive         | Respondent likes the simpler design. Positive valenced statements referring to the simplicity of design or reduced amount of content on the poster                                          | Likes that there are less words, that it is easier to find information, that there is negative space      |
-| Design isn't simple enough - Negative | Respondent indicates that the design is not simple enough. Respondents indicate that there was still too much text or content on the design, respondents indicate a desire for less information or more simplicity | Posters should be less wordy, have less content, be more simple                                            |
-| Hero area - Negative              | Respondents did not like the layout specifically of the hero area. Respondents provide negatively valenced feedback specifically about the hero area of the poster. Respondents do not need to refer to the hero area by name but should be clearly referring to the layout of the central message or main takeaway section of the poster | The title space was too big, there was too much unused space, the middle space was too big/variable        |
-| QR Code - Negative                | Respondents did not like the QR Codes. Negatively valenced statements referring to the QR code or the information presented online through the QR code. Any quotes indicating an online poster were assumed to refer to the QR code experience | Don't have QR codes, online poster didn't have enough information.                                        |
-| QR Code - Positive                | Respondents liked the QR code. Positively valenced statements referring to the QR code or the information presented online through the QR code. Any quotes indicating an online poster were assumed to refer to the QR code experience. information or provide a virtual poster | I like the QR code, information presented in the QR code was useful                                        |
-| More data visualization - Negative | Respondents indicate that more visuals are needed on the #betterposter. More figures or graphs or visuals should be encouraged.                                                          | Needs more visuals, needs more figures, should have a central figure                                       |
-| Colors/Fonts – Negative           | Respondents indicate that they don't like / want more fonts/colors. Feedback can be valanced in any way.                                                                                  | Colors and/or fonts are not visually appealing, should have more                                          |
-| Templates - Positive              | Respondents provide positively valanced feedback on the templates                                                                                                                         | Templates were helpful                                                                                     |
-| Templates- Negative               | Respondents provide negatively valanced feedback on the templates                                                                                                                         | [Need] More diverse templates                                                                              |
-| Misc. poster features - Negative  | Feedback is idiosyncratic or applicable to all posters.                                                                                                                                   | Posters had too many acronyms                                                                             |
+| Code Name | Description | Examples |
+| --- | --- | --- |
+| _Irrelevant Information_ |
+ |
+ |
+| --- | --- | --- |
+| Non-evaluative information | Qualitative response was not relevant to the #betterposter. Provided response may have been explanatory information that was non-evaluative or indiscernible as to its purpose | The online version should have all the details |
+| Presenter/Conference Feedback | Qualitative response was not actually related to #betterposter. Responses provided feedback for the conference organizers or for presenters but were not related to the #betterposter. Or responses provided feedback that were characteristic of all posters, but not the betterposter (e.g., posters used too many acronyms). | Presenters should stand by their posters; the poster session was well-organized |
+| _Experience of the audience member_ | _These codes refer to the experience of the audience member. It focuses on what the audience member saw, felt, etc. It does not focus on the specifics of the poster design (e.g., what is on the paper). Instead, it is focused on the audience members' reactions to what is on the poster._ |
+| Generic positive | Related to the better poster, but not specific. Generic, overall evaluations of like of the #betterposter | I like it, innovative, good, etc. |
+| Easy to consume - Positive | The information on the betterposter was easy to consume. This focuses less on the design elements (e.g., I liked the hero area), and more on the ease of use (the experience). It was easy to see, easy to use, easy to understand) | Easy to read, easy to use, straightforward, clear |
+| Fast to consume - Positive | The information on the betterposter was fast to consume. Focuses on the speed of information consumption and use of the betterposter within the presentation environment | Quick, fast, strategic |
+| Poster Creation - Positive | The creation of the better poster was a good experience. Focuses on any aspect related to the creation of the betterposter from the presenter's point of view | Easier to prepare, easier to create, useful to make |
+| Visually attractive - Positive | The better poster is visually attractive poster design. Focuses on overall reactions to the visual presentation of the betterposter. Does not refer to specific features of what is on the paper (e.g., I liked the hero area), but overall reactions to the poster | Attractive, eye-catching, appealing, great visual, great design |
+| Misc. Experience - Negative | The better poster provided a negative experience for the audience member. Broad "catch-all" category for negative experiential reactions to the betterposter. Does not include attitude evaluations towards specific attributes of what was on the paper (e.g., I did not like the hero area), but negative and idiosyncratic general reactions to the betterposter | I like to save posters and refer/review them later. the traditional poster is better for this |
+| _Poster Design_ | _These codes refer to the actual poster design - what is on the paper._ |
+| Central message- Positive | Respondent expressed approval for the main hero area. This is less focused on the experience (the better poster was easy to understand) and focused on the specific design element on the hero area. Respondents do not need to refer to the hero area by name but should clearly be referring to the central "main takeaways" section of the poster design | Like the key takeaways are highlighted, like the focus on the main findings. |
+| Missing information - Negative | Respondents indicate that more information is needed on the poster design. Respondents indicate that not enough information was provided in certain or all areas of the poster design. Additional information would have been helpful, they would have liked more information on a certain aspect | Hard to understand context of the study without information, wanted more information on methods, difficulty finding enough information |
+| Simpler design - Positive | Respondent likes the simpler design. Positive valenced statements referring to the simplicity of design or reduced amount of content on the poster | Likes that there are less words, that it is easier to find information, that there is negative space |
+| Design isn't simple enough - Negative | Respondent indicates that the design is not simple enough. Respondents indicate that there was still too much text or content on the design, respondents indicate a desire for less information or more simplicity | Posters should be less wordy, have less content, be more simple |
+| Hero area - Negative | Respondents did not like the layout specifically of the hero area. Respondents provide negatively valenced feedback specifically about the hero area of the poster. Respondents do not need to refer to the hero area by name but should be clearly referring to the layout of the central message or main takeaway section of the poster | The title space was too big, there was too much unused space, the middle space was too big/variable |
+| QR Code - Negative | Respondents did not like the QR Codes. Negatively valenced statements referring to the QR code or the information presented online through the QR code. Any quotes indicating an online poster were assumed to refer to the QR code experience | Don't have QR codes, online poster didn't have enough information. |
+| QR Code - Positive | Respondents liked the QR code. Positively valenced statements referring to the QR code or the information presented online through the QR code. Any quotes indicating an online poster were assumed to refer to the QR code experience. information or provide a virtual poster | I like the QR code, information presented in the QR code was useful |
+| More data visualization - Negative | Respondents indicate that more visuals are needed on the #betterposter. More figures or graphs or visuals should be encouraged. | Needs more visuals, needs more figures, should have a central figure |
+| Colors/Fonts – Negative | Respondents indicate that they don't like / want more fonts/colors. Feedback can be valanced in any way. | Colors and/or fonts are not visually appealing, should have more |
+| Templates - Positive | Respondents provide positively valanced feedback on the templates | Templates were helpful |
+| Templates- Negative | Respondents provide negatively valanced feedback on the templates | [Need] More diverse templates |
+| Misc. poster features - Negative | Feedback is idiosyncratic or applicable to all posters. | Posters had too many acronyms |
+
+Page 1 of 18

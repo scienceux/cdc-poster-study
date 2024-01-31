@@ -1,14 +1,55 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+
 project:
-  # title:
-  # description:
-  keywords: []
-  authors: []
+  title: "A step in the right direction: Billboard-style posters preferred overall at two conferences, but should include more methods and limitations."
+  keywords: [Instructional design, Health Communication, Information Acquisition, Knowledge Exchange, Interdisciplinary Science Communication]
+
+  banner: "images/poster-session-16x3.webp"
+  
+  authors:
+  - name: Benard Oronje
+    affiliations:
+      - Kimberly Folkman
+    roles:
+    - Conceptualization
+    - Data curation
+    - Validation
+    - Analysis  
+  - name: Mike Morrison
+    affiliations:
+      - Curvenote
+    roles:
+    - Conceptualization
+    - Data curation
+    - Writing
+    - Analysis
+  - name: Chris Suharlim
+    affiliations:
+      - Management Sciences for Health
+    roles:
+    - Conceptualization
+    - Data curation  
+  - name: Kimberly Folkman
+    affiliations:
+      - Kimberly Folkman
+    roles:
+    - Data curation   
+  - name: Angela Glaude-Hosh
+    affiliations:
+      - Centers for Disease Control and Prevention
+    roles:
+    - Data curation  
+  - name: Victoria Jeisy-Scott
+    affiliations:
+      - Centers for Disease Control and Prevention
+    roles:
+    - Data curation      
   # github:
-  # bibliography: []
+  bibliography: 
+    - references.bib
 site:
-  template: book-theme
+  template: article-theme
   # title:
   # options:
   #   logo: site_logo.png
